@@ -10,4 +10,4 @@ if(NOT CMAKE_BUILD_TYPE)
   set(CMAKE_BUILD_TYPE Debug)
 endif()
 
-add_executable(HomeWork2t main.cpp homework5_1.cpp homework5_2.cpp)
+add_executable(HomeWork2t main.cpp)
